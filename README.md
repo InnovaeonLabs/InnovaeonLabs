@@ -40,6 +40,19 @@
 `Python` · `Sigma` · `MITRE ATT&CK` · `DuckDB` · `Elastic Stack / SIEM` · `SOAR` · `Sysmon` ·
 `Terraform` · `Checkov` · `Docker` · `gitleaks` · `Bandit` · `pip-audit` · `NIST CSF 2.0` · `CIS v8`
 
+## 🎓 Certifications
+<p>
+  <img alt="Google Cybersecurity" src="https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?logo=google&logoColor=white">
+  <img alt="Palo Alto Networks Cybersecurity" src="https://img.shields.io/badge/Palo%20Alto%20Networks-Cybersecurity-F04E23?logo=paloaltonetworks&logoColor=white">
+  <img alt="Johns Hopkins Ethical Hacking" src="https://img.shields.io/badge/Johns%20Hopkins-Intro%20to%20Ethical%20Hacking-002D72">
+  <img alt="TryHackMe SAL1" src="https://img.shields.io/badge/TryHackMe-SAL1%20Certified-181818?logo=tryhackme&logoColor=white">
+</p>
+
+- **Google Cybersecurity** — Professional Certificate · *Google* — [verify »](https://www.coursera.org/account/accomplishments/specialization/WQZV26HFV6TT)
+- **Palo Alto Networks Cybersecurity** — Professional Certificate · *Palo Alto Networks* — [verify »](https://www.coursera.org/account/accomplishments/specialization/RDCLS4QPYGDC)
+- **Introduction to Ethical Hacking** — Specialization · *Johns Hopkins University* — [verify »](https://www.coursera.org/account/accomplishments/specialization/HLLF4MO32SMB)
+- **SAL1 (Security Analyst Level 1)** — *TryHackMe*
+
 ## 📚 Hands-on training — TryHackMe [`Gh0stR00t4lpha.exe`](https://tryhackme.com/p/Gh0stR00t4lpha.exe)
 **Top 2% globally · SAL1 (Security Analyst Level 1) certified · 109 rooms · 29 badges · Professional tier.**
 
