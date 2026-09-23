@@ -1,6 +1,6 @@
 <h1 align="center">Markese Raley</h1>
 <p align="center">
-  <b>Detection Engineer · Blue Team · SOC Analyst (in the making)</b><br/>
+  <b>Detection Engineer · GRC · Blue Team · SOC Analyst (in the making)</b><br/>
   <i>I build tested, evidence-backed defensive security — and prove it works.</i>
 </p>
 
