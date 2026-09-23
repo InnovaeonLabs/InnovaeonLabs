@@ -13,7 +13,9 @@
 
 ---
 
-## 🛡️ Featured project — Project KESTREL
+## 🛡️ Featured projects
+
+### Project KESTREL: detection engineering & security operations
 
 > The complete security program of a **fictional fintech**, built for **$0** on a single laptop: a SIEM-less
 > **detection-as-code** pipeline, three attack emulations, a full incident-response case, and **measured** before/after results.
@@ -30,15 +32,36 @@
   ➡️ <a href="https://github.com/InnovaeonLabs/kestrel-security-program"><b>Explore the repo »</b></a>
 </p>
 
+### Wrenfield Health: NIST SP 800-53 GRC assessment
+
+> A **simulated security control assessment** of a **fictional healthcare SaaS** preparing for a state Medicaid contract:
+> control testing, an access certification, a third-party risk assessment, an enterprise risk register, and a **POA&M**
+> taken through **validated remediation** to executive reporting. Every artifact is cross-linked by ID and machine-checked in CI.
+
+<p align="center">
+  <a href="https://github.com/InnovaeonLabs/wrenfield-grc-assessment">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InnovaeonLabs/wrenfield-grc-assessment/main/screenshots/dashboard-dark.png">
+      <img alt="Wrenfield GRC assessment: executive dashboard" src="https://raw.githubusercontent.com/InnovaeonLabs/wrenfield-grc-assessment/main/screenshots/dashboard-light.png" width="90%">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <b>61 NIST SP 800-53 Rev. 5 controls tested</b> · <b>106-entitlement access review</b> · <b>vendor risk deep-dive</b> ·
+  <b>19 findings → POA&M, 7 validated closures</b> · <b>43 automated integrity checks</b><br/>
+  ➡️ <a href="https://github.com/InnovaeonLabs/wrenfield-grc-assessment"><b>Explore the repo »</b></a>
+</p>
+
 ---
 
 ## 🎯 What I focus on
 **Detection engineering** (Sigma → SQL, ATT&CK-mapped) · **SOC analysis & triage** · **Incident response & DFIR** ·
-**Cloud / IAM security** · **DevSecOps** · **Threat-informed defense** — and turning technical findings into **business risk**.
+**Cloud / IAM security** · **DevSecOps** · **Threat-informed defense** · **GRC & control assessment** (NIST SP 800-53, risk, POA&M, third-party risk) — and turning technical findings into **business risk**.
 
 ## 🧰 Tools & tech
 `Python` · `Sigma` · `MITRE ATT&CK` · `DuckDB` · `Elastic Stack / SIEM` · `SOAR` · `Sysmon` ·
-`Terraform` · `Checkov` · `Docker` · `gitleaks` · `Bandit` · `pip-audit` · `NIST CSF 2.0` · `CIS v8`
+`Terraform` · `Checkov` · `Docker` · `gitleaks` · `Bandit` · `pip-audit` · `NIST CSF 2.0` · `NIST SP 800-53 Rev. 5` · `CIS v8`
 
 ## 🎓 Certifications
 <p>
