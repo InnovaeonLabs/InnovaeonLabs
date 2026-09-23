@@ -41,8 +41,8 @@
 <p align="center">
   <a href="https://github.com/InnovaeonLabs/wrenfield-grc-assessment">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InnovaeonLabs/wrenfield-grc-assessment/main/screenshots/dashboard-dark.png">
-      <img alt="Wrenfield GRC assessment: executive dashboard" src="https://raw.githubusercontent.com/InnovaeonLabs/wrenfield-grc-assessment/main/screenshots/dashboard-light.png" width="90%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InnovaeonLabs/wrenfield-grc-assessment/main/screenshots/dashboard-hero-dark.png">
+      <img alt="Wrenfield GRC assessment: executive dashboard" src="https://raw.githubusercontent.com/InnovaeonLabs/wrenfield-grc-assessment/main/screenshots/dashboard-hero-light.png" width="90%">
     </picture>
   </a>
 </p>
